@@ -1,0 +1,4 @@
+---
+- hosts: Hosts
+  roles:
+      - { role: geerlingguy.jenkins }
